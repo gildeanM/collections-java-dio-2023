@@ -56,7 +56,7 @@ public class ContagemPalavras {
         contagemLinguagens.adicionarPalavras("JavaScript", 1);
         contagemLinguagens.adicionarPalavras("C#", 6);
 
-        System.out.println();contagemLinguagens.encontrarPalavraMaisFrequente());
+        System.out.println(contagemLinguagens.encontrarPalavraMaisFrequente());
 
 
     }
